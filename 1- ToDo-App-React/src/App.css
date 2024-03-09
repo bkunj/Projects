@@ -1,0 +1,12 @@
+input{
+    width: 100%;
+}
+
+.kb-row{
+    width: 100%;
+    margin: 10px 5px;
+}
+
+.kb-button{
+    min-width: 80px;
+}
